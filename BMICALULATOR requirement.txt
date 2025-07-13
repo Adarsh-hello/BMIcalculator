@@ -1,0 +1,4 @@
+Dependencies:
+tkinter – GUI for input/output
+
+pandas – For saving BMI history (like CSV)
